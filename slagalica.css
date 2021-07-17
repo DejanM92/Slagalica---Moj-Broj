@@ -1,0 +1,122 @@
+* {margin:0px; padding:0px;}
+
+.cleaner
+{
+	clear:both;
+}
+
+.numbUse:hover, .numbUse2:hover, .numbUse3:hover, .sign:hover, #stop:hover {
+	cursor:pointer;
+}
+
+
+#main {
+	margin:0 auto;
+	width:1000px;
+	height:1000px;
+	padding:100px 0px;
+	background-color: #ADD8E6;
+}
+
+#content1{
+	margin:10px auto;
+	width:244px;
+}
+#content2{
+	margin:10px auto;
+	width:800px;
+}
+
+.numbSearch{
+	background-color:blue;
+	width:70px;
+	height:70px;
+	float:left;
+	margin:0px 3px;
+	font-size:60px;
+	text-align:center;
+	color:white;
+}
+
+.numbUse{
+	background-color:blue;
+	width:70px;
+	height:70px;
+	float:left;
+	margin:0px 3px;
+	font-size:60px;
+	text-align:center;
+	color:white;
+}
+
+.numbUse2{
+	background-color:blue;
+	width:150px;
+	height:70px;
+	float:left;
+	margin:0px 10px;
+	font-size:60px;
+	text-align:center;
+	color:white;
+}
+
+.numbUse3{
+	background-color:blue;
+	width:230px;
+	height:70px;
+	float:left;
+	margin:0px 10px;
+	font-size:60px;
+	text-align:center;
+	color:white;
+}
+
+
+#signs{
+	margin:10px auto;
+	width:470px;
+}
+
+.sign{
+	background-color:blue;
+	width:70px;
+	height:70px;
+	font-size:60px;
+	text-align:center;
+	float:left;
+	margin:0px 3px;
+	color:white;
+}
+#numbResult {
+	margin:20px 0px 0px 100px;
+	background-color:blue;
+	width:800px;
+	height:70px;
+	font-size:40px;
+	padding-left:50px;
+	border:0px;
+	color:white;
+}
+
+#stop{
+	margin:10px 0px 0px 300px;
+	background-color:blue;
+	width:270px;
+	height:70px;
+	font-size:60px;
+	text-align:center;
+	display:block;
+	float:left;
+	color:white;
+}
+
+#counter {
+	margin:10px 0px 0px 10px;
+	background-color:blue;
+	width:130px;
+	height:70px;
+	font-size:60px;
+	text-align:center;
+	float:left;
+	color:white;
+}
